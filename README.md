@@ -1,2 +1,4 @@
-# homebrew-drips
-Homebrew repo for nmasur/drips
+# Homebrew Repo
+Formulae
+
+- drips
